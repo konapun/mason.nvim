@@ -136,6 +136,7 @@ InstallReceiptBuilder.cargo = package_source "cargo"
 InstallReceiptBuilder.composer = package_source "composer"
 InstallReceiptBuilder.opam = package_source "opam"
 InstallReceiptBuilder.luarocks = package_source "luarocks"
+InstallReceiptBuilder.raco = package_source "raco"
 
 InstallReceiptBuilder.unmanaged = { type = "unmanaged" }
 
